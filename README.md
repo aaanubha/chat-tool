@@ -54,4 +54,5 @@ python3 build_index.py
 streamlit run qa_app.py
 ```
 
+![Chat Tool Screenshot](images/image.png)
 
