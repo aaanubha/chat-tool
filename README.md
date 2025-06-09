@@ -4,17 +4,17 @@ A lightweight, offline Q&A tool that lets you ask natural-language questions abo
 
 ---
 
-## ✨ Features
+## Features
 
-- 🔍 Ask questions about Uber's AV strategy, logistics, delivery ops, labor trends, and more
-- 🧠 Uses local LLMs (e.g., Mistral 7B, Phi-2) via `llama-cpp-python`
-- 📚 Retrieves only relevant expert transcript chunks with FAISS + sentence-transformers
-- 🖥️ Fully offline — no internet, no API keys, no cloud dependencies
-- 💡 Designed for non-technical users with a simple Streamlit interface
+- Ask questions about Uber's AV strategy, logistics, delivery ops, labor trends, and more
+- Uses local LLMs (e.g., Mistral 7B, Phi-2) via `llama-cpp-python`
+- Retrieves only relevant expert transcript chunks with FAISS + sentence-transformers
+- Fully offline — no internet, no API keys, no cloud dependencies
+- Designed for non-technical users with a simple Streamlit interface
 
 ---
 
-## ⚙️ System Requirements
+## System Requirements
 
 - macOS/Linux/Windows
 - Python 3.9+
@@ -23,7 +23,7 @@ A lightweight, offline Q&A tool that lets you ask natural-language questions abo
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 ### Step 1: Clone the Repo
 
